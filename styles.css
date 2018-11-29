@@ -1,0 +1,21 @@
+.title,.spell {
+    display:flex;
+    justify-content:center;
+}
+
+button {
+    height:70px;
+    width:120px;
+}
+
+#first, #second, #third {
+    height:200px;
+    width:143px;
+    padding:20px;
+}
+
+.button {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
